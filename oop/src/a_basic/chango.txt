@@ -1,0 +1,19 @@
+OOP : Object Oriented Programming
+
+			객체 지향 프로그래밍
+			
+			Class
+			객체 : 클래스가 메모리가 있는 상태
+			instance = object
+			
+			
+// class 선언
+class Student {
+
+}
+
+// class 변수 선언
+Studet s = null;
+
+// 겍체 생성
+s = 
